@@ -1,4 +1,4 @@
-from turtle import Turtle, Screen
+from turtle import Turtle, Scree
 import random
 
 screen = Screen()
